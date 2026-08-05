@@ -1,12 +1,12 @@
 {
   "meta": {
     "title": "Nossa Senhora de Lourdes — Cronologia",
-    "subtitle": "Chronology of the reported apparitions at Lourdes and their reception by the Church (1854–present)",
-    "description": "An open, source-referenced chronology of the apparitions reported by Bernadette Soubirous at the Massabielle grotto in Lourdes, France, in 1858, and of the documented acts of the Catholic Church concerning them.",
+    "subtitle": "Chronology of the reported apparitions at Lourdes, of what came before and after them, and of the Church's acts (1854–2025)",
+    "description": "An open, source-referenced chronology of the apparitions reported by Bernadette Soubirous at the Massabielle grotto in Lourdes, France, in 1858: the 1854 dogma that preceded them, the civil closing of the grotto, the documented acts of the Catholic Church concerning them, the basilicas and pilgrimage institutions that grew around the site, Bernadette's later life at Nevers, and the recognition of reported cures — recorded as dated Church acts, never as cures this site asserts.",
     "language": "en",
     "siteUrl": "https://cronologia.github.io/lourdes/",
     "lastUpdated": "2026-08-05",
-    "dataQualityNote": "Work-in-progress dataset compiled from public sources (see references). The apparitions are recorded as REPORTED events: the dataset states who reported what and when, and what the Church ruled and when, citing the ruling document — it does not assert the supernatural claim as fact. Contested claims are attributed to their authors; dates not yet verified against a primary source are flagged with a ? mark. Corrections against primary sources are welcome.",
+    "dataQualityNote": "Work-in-progress dataset compiled from public sources (see references). The apparitions are recorded as REPORTED events: the dataset states who reported what and when, and what the Church ruled and when, citing the ruling document — it does not assert the supernatural claim as fact. Reported miracles are handled the same way: a cure is a claim, and only two things attached to it are datable — that it was REPORTED, and any RECOGNITION ACT by which a bishop declared it miraculous. No entry here says a cure happened; the Medical Bureau (1883) and the International Medical Committee (1954) can find a cure unexplained but declare no miracle, counts are attributed to whoever publishes them (the Sanctuary says 72 as of 2025, while an older page of its own site still says 70, and both are kept), and recognized cures earn no rung on the approval ladder, which records judgments on the apparitions alone. The chronology also carries what came before 1858 and the institutional history after it — the basilicas, the pilgrimage bodies, Bernadette's years at Nevers. Contested claims are attributed to their authors; dates not yet verified against a primary source are flagged with a ? mark, and where sources disagree — including where the Sanctuary disagrees with itself — the disagreement is recorded rather than resolved. Corrections against primary sources are welcome.",
     "vizChips": [
       {
         "href": "#chronology",
@@ -81,10 +81,22 @@
     },
     {
       "label": "Recognized cures",
-      "value": "72 cures recognized as miraculous by the Church, according to the Sanctuary of Lourdes (as of 2025; the most recent recognition it lists is that of Antonia Raco). Each recognition is a diocesan bishop's declaration after medical review. An older page of the Sanctuary's own site still states 70 — the count is attributed to the Sanctuary, never asserted by this site.",
+      "value": "72 cures recognized as miraculous by the Church, according to the Sanctuary of Lourdes (as of 2025; the most recent it lists is Antonia Raco, proclaimed by the Bishop of Tursi-Lagonegro on 16 April 2025). Each recognition is a diocesan bishop's declaration after medical review, and the recognitions — not the cures — are what this chronology dates. The Sanctuary's list bunches them: seven on 18 January 1862 in the approval decree itself, thirty-three between 1907 and 1913, then nothing for thirty-three years. An older page of the Sanctuary's own site still states 70 — the count is attributed to the Sanctuary, never asserted by this site, and the disagreement is left standing.",
       "sources": [
         "lourdes-miracles-com",
-        "lourdes-miracles-org"
+        "lourdes-miracles-org",
+        "lourdes-miraculous-healings",
+        "lourdes-raco-72"
+      ]
+    },
+    {
+      "label": "The shrine that grew",
+      "value": "Four churches were built at the grotto in answer to the request Bernadette reported on 2 March 1858: the crypt (opened 19 May 1866), the Basilica of the Immaculate Conception above it (blessed 15 August 1871, consecrated 1876), the Rosary Basilica (first stone 16 July 1883, consecrated 6 October 1901, minor basilica 1926) and the underground Basilica of Saint Pius X (consecrated 25 March 1958, the centenary year). The Hospitality of Our Lady of Lourdes, the volunteer body that receives sick and disabled pilgrims, dates from 1885.",
+      "sources": [
+        "lourdes-3-basilicas",
+        "lourdes-rosary-dedication",
+        "lourdes-infotourisme-crypte",
+        "lourdes-hospitality"
       ]
     }
   ],
@@ -158,6 +170,19 @@
     },
     {
       "year": 1858,
+      "date": "1858-06",
+      "dateVerified": false,
+      "dateNote": "Two closure dates are in the sources and neither is preferred: 7 June 1858 (French Wikipedia) and \"from 15th June\" (the Sanctuary's own page, the only official source of the two). The reopening of 5 October 1858 by Napoleon III rests on a tertiary source alone; no official or archival document for it has been located. Dated to the month, and left unverified.",
+      "place": "Lourdes, France",
+      "title": "The civil authorities close the grotto",
+      "text": "Crowds kept coming to Massabielle after Bernadette reported nothing further from 7 April 1858. By the Sanctuary's own account the authorities prohibited access to the grotto \"from 15th June\", and \"signs, boards, barricades are put up\"; shortly afterwards the bishop of Tarbes went as far as forbidding Catholics to go there, lifting his ban about a fortnight later. The barricade was still standing on 16 July, which is why Bernadette reported the last apparition from the far bank of the Gave. French accounts date the reopening to 5 October 1858, on an order of Napoleon III. The closing and the reopening are CIVIL acts by civil authorities — the same register as the Jacomet interrogation, and not an ecclesiastical judgment of any kind.",
+      "sources": [
+        "lourdes-explain-apparitions",
+        "wikipedia-fr-apparitions-lourdes"
+      ]
+    },
+    {
+      "year": 1858,
       "date": "1858-07-16",
       "dateVerified": true,
       "place": "Lourdes, France",
@@ -190,10 +215,34 @@
       ]
     },
     {
+      "year": 1862,
+      "date": "1862-01-18",
+      "dateVerified": true,
+      "place": "Tarbes, France",
+      "title": "The first seven cures recognized — in the approval decree itself",
+      "text": "The Sanctuary's published list of recognized cures dates the first seven to 18 January 1862, the date of Bishop Laurence's decree: Catherine Latapie of Loubajac, Louis Bouriette and Blaisette Cazenave of Lourdes, Henri Busquet and Madeleine Rizan of Nay, Justin Bouhort of Lourdes and Marie Moreau of Tartas. The datable event is the bishop's act of recognition; the list and the count are the Sanctuary's, and this site asserts nothing about the cures themselves. That the judgment on the apparitions and the first cure recognitions arrive in one document is exactly why the two are easily run together — they are kept apart here, and recognized cures earn no rung on the approval ladder, which records judgments on the apparitions alone.",
+      "sources": [
+        "lourdes-miraculous-healings",
+        "lourdes-recognition"
+      ]
+    },
+    {
+      "year": 1866,
+      "date": "1866-05-19",
+      "dateVerified": true,
+      "place": "Lourdes, France",
+      "title": "The crypt — the first church built at the grotto — opened",
+      "text": "The crypt beneath what became the Basilica of the Immaculate Conception opens on 19 May 1866, the first church built in answer to the request Bernadette reported on 2 March 1858 (\"go and tell the priests… to build a chapel here\"). It holds about 120 people. The Sanctuary keeps 19 May as the crypt's dedication anniversary, alongside 25 March for Saint Pius X, 2 July for the Immaculate Conception and 6 October for the Rosary.",
+      "sources": [
+        "lourdes-infotourisme-crypte",
+        "lourdes-rosary-dedication"
+      ]
+    },
+    {
       "year": 1866,
       "date": "1866-07",
       "dateVerified": false,
-      "dateNote": "Accounts subdivide July 1866 differently: Bernadette left Lourdes on 4 July and took the postulant's habit at Saint-Gildard on 29 July according to the Wikipedia biography; the Sanctuary's own biography page organizes her life around the earlier move (15 July 1860) into the Lourdes hospice run by the same congregation. Month verified; day not pinned to a primary source yet.",
+      "dateNote": "Three dates for the same move are in the sources and none is preferred: Bernadette left Lourdes on 4 July and took the postulant's habit at Saint-Gildard on 29 July 1866 according to the Wikipedia biography; the Sanctuary's own site states that she \"joined the Congregation of the Sisters of Charity and Christian Instruction in Nevers on 7 July 1866\"; and the Sanctuary's biography page organizes her life around the earlier move (15 July 1860) into the Lourdes hospice run by the same congregation. Month verified; day not pinned to a primary source.",
       "place": "Nevers, France",
       "title": "Bernadette leaves Lourdes for the convent of Saint-Gildard, Nevers",
       "text": "Bernadette departs Lourdes and enters the motherhouse of the Sisters of Charity of Nevers, taking the postulant's habit on 29 July 1866. She never returns to Lourdes, living her remaining thirteen years as Sister Marie-Bernard.",
@@ -201,6 +250,20 @@
         "britannica-bernadette",
         "wikipedia-bernadette",
         "lourdes-bernadette"
+      ]
+    },
+    {
+      "year": 1876,
+      "date": "1876-07-01",
+      "dateVerified": true,
+      "dateNote": "The Sanctuary's two websites give different days for the consecration: lourdes-france.org states 1 July 1876, while lourdes-france.com keeps 2 July as the basilica's dedication anniversary. Both are recorded; neither is preferred. The event is filed under 1 July.",
+      "place": "Lourdes, France",
+      "title": "Consecration of the Basilica of the Immaculate Conception; the statue crowned",
+      "text": "The upper church begun in 1866 above the crypt, blessed on 15 August 1871, is consecrated in July 1876. The statue of Our Lady of Lourdes — carved by Joseph-Hugues Fabisch and inaugurated at the grotto on 4 April 1864 — is crowned in the same year with a golden crown commissioned by Pius IX from the Paris goldsmith Mellerio. A crowning honours an image and confers nothing on the reported apparitions: the diocesan decree of 1862 remains the only act that judged them.",
+      "sources": [
+        "lourdes-3-basilicas",
+        "lourdes-rosary-dedication",
+        "lourdes-crowning-150"
       ]
     },
     {
@@ -228,6 +291,53 @@
       ]
     },
     {
+      "year": 1885,
+      "date": "1885",
+      "dateVerified": true,
+      "place": "Lourdes, France",
+      "title": "Foundation of the Hospitality of Our Lady of Lourdes",
+      "text": "The Hospitalité Notre-Dame de Lourdes is founded in 1885: an association of volunteers — hospitaliers — who welcome pilgrims and above all sick and disabled pilgrims, taking turns through the year so that the shrine has a continuous presence of them. It is the institution through which the pilgrimage's characteristic organisation of care took shape, and the Sanctuary distinguishes it from the diocesan \"hospitalities of accompaniment\" that travel with their own groups.",
+      "sources": [
+        "lourdes-hospitality"
+      ]
+    },
+    {
+      "year": 1901,
+      "date": "1901-10-06",
+      "dateVerified": true,
+      "place": "Lourdes, France",
+      "title": "Consecration of the Rosary Basilica",
+      "text": "The church of the Most Holy Rosary, whose first stone Cardinal Desprez, archbishop of Toulouse, laid on 16 July 1883 for the twenty-fifth anniversary of the last reported apparition, is consecrated on Sunday 6 October 1901 by Cardinal Langénieux acting as Leo XIII's delegate; the pope had signed the apostolic letter 'Parta humano generi' for the occasion on 8 September 1901. Pius XI raised the church to a minor basilica by apostolic brief of 24 September 1926. The Sanctuary's archives hold the minutes of the consecration, signed by the consecrating prelates.",
+      "sources": [
+        "lourdes-rosary-dedication",
+        "lourdes-3-basilicas"
+      ]
+    },
+    {
+      "year": 1907,
+      "date": "1907",
+      "dateVerified": true,
+      "dateNote": "The Vatican City State's page dates the insertion to 1907 and names neither a pope nor a day. Devotional sources attribute the extension to Pius X and some give a day; no Holy See document fixing one has been located, so only the year is recorded.",
+      "place": "Rome",
+      "title": "The Lourdes memorial inserted into the Roman calendar — a liturgical concession",
+      "text": "The liturgical memorial of the apparitions is inserted into the Roman calendar in 1907, universalising the proper Office and Mass \"In apparitione Beatae Mariae Virginis Immaculatae\" that Leo XIII had granted in 1892. It is a concession of cult — the Church permitting a devotion and then extending it — and not a judgment that the apparitions occurred. The approval ladder treats it the same way: the Roman acts on Lourdes located here are liturgical or indulgential, and the only act that judged the apparitions is the bishop of Tarbes' decree of 1862, which Pius XII's 1957 encyclical still credits as the recognition.",
+      "sources": [
+        "vaticanstate-lourdes-feast",
+        "vatican-pelerinage-lourdes"
+      ]
+    },
+    {
+      "year": 1907,
+      "date": "1907–1913",
+      "dateVerified": true,
+      "place": "Lourdes, France",
+      "title": "The jubilee wave of cure recognitions (a count attributed to the Sanctuary)",
+      "text": "Thirty-three of the seventy-two cures on the Sanctuary's published list carry a recognition date between 4 February 1907 and 18 October 1913 — the years around the fiftieth anniversary of the apparitions — and twenty of those fall in 1908 alone, five of them on a single day, 6 June 1908. No recognition is then listed for thirty-three years, until 20 May 1946. What is recorded here is the shape of the Sanctuary's own list of Church acts, attributed to the Sanctuary; nothing is claimed about the cures, and the list gives for each case only the person, the town and the date of recognition — not the declaring bishop, and for most not the date of the cure.",
+      "sources": [
+        "lourdes-miraculous-healings"
+      ]
+    },
+    {
       "year": 1925,
       "date": "1925-06-14",
       "dateVerified": false,
@@ -252,6 +362,42 @@
       ]
     },
     {
+      "year": 1954,
+      "date": "1954",
+      "dateVerified": true,
+      "place": "Lourdes, France",
+      "title": "The International Medical Committee of Lourdes (CMIL) created",
+      "text": "Bishop Pierre-Marie Théas of Tarbes and Lourdes, with Dr François Leuret, president of the Bureau des Constatations, set up a Lourdes Medical Committee in 1947, co-opting doctors and professors from outside the shrine; in 1954 the bishop gave it an international dimension and it became the International Medical Committee of Lourdes. Its task is to judge whether a cure the Medical Bureau has found \"unexplained\" is indeed unexplained on current medical knowledge, against the Lambertini criteria — complete and lasting, from a serious illness of unfavourable prognosis, and sudden — and then to send its opinion to the bishop concerned. Neither body declares a miracle: that act belongs to the bishop of the cured person. An earlier association, announced on 6 September 1925, had become the international A.M.I.L. in 1928.",
+      "sources": [
+        "lourdes-medical-bureau-org",
+        "lourdes-recognition-miracle"
+      ]
+    },
+    {
+      "year": 1958,
+      "date": "1958-03-25",
+      "dateVerified": true,
+      "place": "Lourdes, France",
+      "title": "Consecration of the underground Basilica of Saint Pius X",
+      "text": "The underground basilica of Saint Pius X, built in prestressed concrete to hold crowds the three earlier churches could not, is consecrated on 25 March 1958, the centenary year of the reported apparitions and the anniversary of the day the name \"Immaculate Conception\" was reported at the grotto. 25 March is the date the Sanctuary keeps as its dedication anniversary.",
+      "sources": [
+        "lourdes-3-basilicas",
+        "lourdes-rosary-dedication"
+      ]
+    },
+    {
+      "year": 2018,
+      "date": "2018-02-11",
+      "dateVerified": true,
+      "place": "Beauvais, France",
+      "title": "Sister Bernadette Moriau's cure declared the 70th recognized miracle",
+      "text": "Jacques Benoit-Gonnin, Bishop of Beauvais, Noyon and Senlis, states on 11 February 2018 — the feast of Our Lady of Lourdes and the World Day of the Sick — that he has decided \"to recognize the 'prodigious-miraculous character'\" of the cure reported by Sister Bernadette Moriau, a Franciscan Oblate of the Sacred Heart at Bresles, who had had cauda equina syndrome since 1987 and reported the cure on 11 July 2008 on returning from her diocese's Lourdes pilgrimage. The International Medical Committee of Lourdes had concluded on 18–19 November 2016 that the cure remained unexplained in the present state of scientific knowledge. The bishop's declaration is the datable event; the Sanctuary counts it as the 70th recognition.",
+      "sources": [
+        "eglise-catholique-moriau",
+        "lourdes-miraculous-healings"
+      ]
+    },
+    {
       "year": 2024,
       "date": "2024-12-08",
       "dateVerified": true,
@@ -260,6 +406,19 @@
       "text": "Malcolm McMahon, Archbishop of Liverpool, formally declares miraculous the 1923 cure of John Traynor, a Liverpool veteran of the First World War cured on 25 July 1923 during his archdiocese's first Lourdes pilgrimage; the Medical Bureau had recorded the cure as unexplained in October 1926. An example of the datable event this dataset records for cures: the bishop's act of recognition, with the count attributed to the Sanctuary.",
       "sources": [
         "lourdes-traynor"
+      ]
+    },
+    {
+      "year": 2025,
+      "date": "2025-04-16",
+      "dateVerified": true,
+      "place": "Tursi, Italy",
+      "title": "Antonia Raco's cure declared the 72nd recognized miracle",
+      "text": "Vincenzo Carmine Orofino, Bishop of Tursi-Lagonegro, proclaims on 16 April 2025 the miraculous character of the cure reported by Antonia Raco (Mrs Lofiego), aged 67, who had primary lateral sclerosis and reported being able to walk again at the baths during the UNITALSI pilgrimage of 30 July – 5 August 2009. The proclamation rests on the International Medical Committee of Lourdes' 2024 vote that the recovery was \"unexpected, complete, lasting and unexplained according to medical knowledge\". The bishop's act is the datable event; the Sanctuary counts it as the 72nd, while an older page of its own site still says 70.",
+      "sources": [
+        "lourdes-raco-72",
+        "lourdes-miracles-com",
+        "lourdes-miracles-org"
       ]
     }
   ],
@@ -334,6 +493,25 @@
         "britannica-bernadette",
         "wikipedia-bernadette"
       ]
+    },
+    {
+      "name": "International Medical Committee of Lourdes (CMIL)",
+      "founded": "1954",
+      "place": "Lourdes, France",
+      "relation": "The Sanctuary's second medical body, distinct from the Medical Bureau. A Lourdes Medical Committee was set up in 1947 by Bishop Pierre-Marie Théas with Dr François Leuret; in 1954 it was given an international dimension and became the CMIL, about thirty members. It judges whether a cure the Bureau has found \"unexplained\" is unexplained on current medical knowledge, against the Lambertini criteria, and sends its opinion to the bishop of the cured person. Like the Bureau, it declares no miracle: that act is the bishop's, and it is the act this dataset dates.",
+      "sources": [
+        "lourdes-medical-bureau-org",
+        "lourdes-recognition-miracle"
+      ]
+    },
+    {
+      "name": "Hospitalité Notre-Dame de Lourdes",
+      "founded": "1885",
+      "place": "Lourdes, France",
+      "relation": "The volunteer body founded in 1885 whose members — hospitaliers, drawn from all over the world — receive pilgrims at the shrine and accompany the sick and disabled among them, in rotation through the year. It is the Sanctuary's own permanent hospitality, distinct from the diocesan \"hospitalities of accompaniment\" that travel with a particular group and go home with it.",
+      "sources": [
+        "lourdes-hospitality"
+      ]
     }
   ],
   "disambiguation": {
@@ -367,6 +545,15 @@
         "text": "Thousands of replica Lourdes grottos exist in parishes worldwide (and 'Lourdes'/'Lurdes' place names in Brazil, Portugal, and elsewhere). They are devotional copies of the Massabielle grotto; the reported apparitions of 1858 and the 1862 recognition concern only the site in the diocese of Tarbes and Lourdes. Likewise, other Marian apparitions (Fátima, La Salette, Guadalupe) are separate events, each with its own distinct Church judgment.",
         "sources": [
           "lourdes-apparitions"
+        ]
+      },
+      {
+        "title": "Crowning a statue, and a feast day, are not verdicts",
+        "text": "The statue at the grotto was crowned in 1876 with a crown commissioned by Pius IX, and the memorial of the apparitions entered the Roman calendar in 1907. Both are acts of cult — an honour paid to an image, a devotion permitted and then universalised — and neither says anything about whether the apparitions happened. The only act that judged them is the bishop of Tarbes' decree of 18 January 1862; Pius XII's centenary encyclical of 1957 still credits the recognition to the diocese.",
+        "sources": [
+          "lourdes-crowning-150",
+          "vaticanstate-lourdes-feast",
+          "vatican-pelerinage-lourdes"
         ]
       }
     ]
@@ -482,6 +669,102 @@
       "publisher": "Holy See (vatican.va)",
       "publisherNote": "official gazette of the Holy See — cited for what a search of it can and cannot establish: the series begins in 1909, after the 1862 diocesan decree and the 1907 calendar insertion, so the acts at issue here would fall in the earlier Acta Sanctae Sedis series",
       "type": "index"
+    },
+    {
+      "id": "lourdes-explain-apparitions",
+      "title": "Friday 16th July 1858 — the 18th and final apparition",
+      "url": "https://www.lourdes-france.org/en/expliquez-moi-les-apparitions/",
+      "publisher": "Sanctuary of Our Lady of Lourdes (lourdes-france.org)",
+      "publisherNote": "official site — the Sanctuary's own narrative of the weeks between the 7 April and 16 July 1858 apparitions; the only official source located for the closing of the grotto (\"the authorities to prohibit access to the grotto from 15th June. Signs, boards, barricades are put up\") and for the bishop of Tarbes' own short-lived ban on Catholics going there",
+      "type": "official"
+    },
+    {
+      "id": "wikipedia-fr-apparitions-lourdes",
+      "title": "Apparitions mariales de Lourdes",
+      "url": "https://fr.wikipedia.org/wiki/Apparitions_mariales_de_Lourdes",
+      "publisher": "Wikipédia (FR)",
+      "publisherNote": "crowd-sourced encyclopedia — cited only for the civil side of 1858, where no official source was reachable: the barricading of the grotto (which it dates 7 June, against the Sanctuary's 15 June) and the reopening ordered by Napoleon III on 5 October 1858. Flagged as the sole source for both, and the event carries an unverified date",
+      "type": "encyclopedia"
+    },
+    {
+      "id": "lourdes-miraculous-healings",
+      "title": "Miraculous healings — the 72 recognized cures",
+      "url": "https://www.lourdes-france.com/en/miraculous-healings/",
+      "publisher": "Sanctuary of Our Lady of Lourdes",
+      "publisherNote": "official site — the Sanctuary's own list of the 72 cures recognized as miraculous, giving for each the person, the town and the DATE OF RECOGNITION. It is the source for every count in this dataset (7 recognitions on 18 January 1862; 33 between 1907 and 1913, of which 20 in 1908 alone) and for the statement that more than 7,000 cures have been reported. It names no declaring bishop and, for most cases, no date of cure — a limit of the source, recorded here rather than filled in",
+      "type": "official"
+    },
+    {
+      "id": "lourdes-recognition-miracle",
+      "title": "Recognition of a miracle",
+      "url": "https://www.lourdes-france.com/en/recognition-of-a-miracle/",
+      "publisher": "Sanctuary of Our Lady of Lourdes",
+      "publisherNote": "official site — the three-stage procedure (Medical Bureau → International Medical Committee → the bishop), the Lambertini criteria a cure must meet, and the Sanctuary's own statement that the declaration belongs to the bishop and not to either medical body",
+      "type": "official"
+    },
+    {
+      "id": "lourdes-medical-bureau-org",
+      "title": "The Medical Bureau of the Sanctuary (lourdes-france.org)",
+      "url": "https://www.lourdes-france.org/en/medical-bureau-sanctuary/",
+      "publisher": "Sanctuary of Our Lady of Lourdes (lourdes-france.org)",
+      "publisherNote": "official site — the institutional history the .com page omits: the Association Médicale de Notre-Dame de Lourdes announced 6 September 1925, its transformation into the international A.M.I.L. with a first bulletin in February 1928, the Lourdes Medical Committee set up in 1947 by Bishop Pierre-Marie Théas with Dr François Leuret, and the 1954 creation of the International Medical Committee of Lourdes (CMIL)",
+      "type": "official"
+    },
+    {
+      "id": "lourdes-rosary-dedication",
+      "title": "6th October, dedication of the Rosary Basilica",
+      "url": "https://www.lourdes-france.com/en/6th-october-dedication-of-the-rosary-basilica/",
+      "publisher": "Sanctuary of Our Lady of Lourdes",
+      "publisherNote": "official site (3 October 2023) — the Sanctuary's own account of the Rosary church: first stone laid 16 July 1883 by Cardinal Desprez, Leo XIII's apostolic letter 'Parta humano generi' of 8 September 1901, consecration by Cardinal Langénieux as papal delegate on Sunday 6 October 1901, and elevation to minor basilica by Pius XI's apostolic brief of 24 September 1926. Also gives the four dedication anniversaries the Sanctuary keeps (25 March, 19 May, 2 July, 6 October) and notes that the minutes of the consecration are in the Sanctuary's archives",
+      "type": "official"
+    },
+    {
+      "id": "lourdes-3-basilicas",
+      "title": "The 3 basilicas of Lourdes",
+      "url": "https://www.lourdes-france.org/en/the-3-basilicas-of-lourdes/",
+      "publisher": "Sanctuary of Our Lady of Lourdes (lourdes-france.org)",
+      "publisherNote": "official site — the Basilica of the Immaculate Conception begun 1866, blessed 15 August 1871 and consecrated 1 July 1876; the Rosary Basilica blessed 7 August 1889 and consecrated 6 October 1901; the Basilica of Saint Pius X consecrated 25 March 1958 for the centenary. Its 1 July 1876 disagrees with the 2 July anniversary the Sanctuary's other site keeps — the disagreement is recorded, not resolved",
+      "type": "official"
+    },
+    {
+      "id": "lourdes-crowning-150",
+      "title": "150th anniversary of the crowning of the Virgin Mary in Lourdes",
+      "url": "https://www.lourdes-france.org/en/150-ans-du-couronnement-de-la-vierge-marie-a-lourdes/",
+      "publisher": "Sanctuary of Our Lady of Lourdes (lourdes-france.org)",
+      "publisherNote": "official site (4 May 2026) — announces the 150th anniversary of the crowning of the statue, placing the crowning in 1876, and describes the golden crown made by the Paris goldsmith Mellerio. The Sanctuary's own gloss on what a crowning means (\"not just a matter of placing a precious adornment\") is devotional and is not adopted here",
+      "type": "official"
+    },
+    {
+      "id": "lourdes-hospitality",
+      "title": "Christian hospitality at Lourdes",
+      "url": "https://www.lourdes-france.com/en/christian-hospitality-at-lourdes/",
+      "publisher": "Sanctuary of Our Lady of Lourdes",
+      "publisherNote": "official site (19 August 2024) — dates the Hospitality of Our Lady of Lourdes to 1885 and distinguishes it from the diocesan 'hospitalities of accompaniment' that travel with their own groups",
+      "type": "official"
+    },
+    {
+      "id": "lourdes-raco-72",
+      "title": "Antonia Raco — 72nd Lourdes miracle",
+      "url": "https://www.lourdes-france.com/en/antonietta-raco-72nd-lourdes-miracle/",
+      "publisher": "Sanctuary of Our Lady of Lourdes",
+      "publisherNote": "official site — the 16 April 2025 proclamation by Mgr Vincenzo Carmine Orofino, Bishop of Tursi-Lagonegro, following the International Medical Committee of Lourdes' 2024 vote; gives the illness, the UNITALSI pilgrimage of 30 July – 5 August 2009 and the wording the bishop's decision rests on",
+      "type": "official"
+    },
+    {
+      "id": "eglise-catholique-moriau",
+      "title": "Le 70e miracle de Lourdes officiellement reconnu par l'évêque de Beauvais",
+      "url": "https://eglise.catholique.fr/actualites/452640-70e-miracle-de-lourdes-officiellement-reconnu-leveque-de-beauvais/",
+      "publisher": "Conférence des évêques de France (eglise.catholique.fr)",
+      "publisherNote": "the French Bishops' Conference's own news service (12 February 2018) — an official-Church source, sympathetic by nature. Cited for the bishop's formula (\"J'ai décidé de reconnaître le « caractère prodigieux-miraculeux » de cette guérison\"), his full title, the date of the declaration, the CMIL session of 18–19 November 2016 and the 11 July 2008 date of the reported cure. Used because the Sanctuary's list gives no declaring bishop and the Diocese of Beauvais' own page for the message is now unreachable (HTTP 404)",
+      "type": "news"
+    },
+    {
+      "id": "lourdes-infotourisme-crypte",
+      "title": "La Crypte (Lourdes)",
+      "url": "https://en.lourdes-infotourisme.com/offers/la-crypte-lourdes-en-3152402/",
+      "publisher": "Lourdes Tourist Office",
+      "publisherNote": "the town's own tourist office — a CIVIL, municipal source rather than an ecclesiastical one, and one with an interest in promoting the site. Cited only for an uncontested building fact the Sanctuary's pages give without a year: the crypt was opened on 19 May 1866 and holds about 120 people",
+      "type": "official"
     }
   ]
 }
