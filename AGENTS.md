@@ -89,6 +89,23 @@ byte-identical to a build without the feature. Shapes are shown in
 
 - **`meta.vizChips[]`** — header pill links to the visual sections
   (`{ "href": "#lineage", "label": "🌳 Genealogy" }`).
+- **`approvalLadder`** — how far a reported apparition got through Church
+  judgment (`renderApprovalLadder`), rendered at the TOP of the page, above
+  `about`. One `stages[]` rung per AUTHORITY, declared in data because real
+  cases do not all have three: this dataset declares the 1858 local level, the
+  bishop of Tarbes, and Rome. Each rung carries `label`, `status`, and prose
+  (`when`, `who`, `outcome`, `noDocument`). **`status` is a closed enum**
+  (`favourable`, `negative`, `inconclusive`, `reported-undocumented`,
+  `not-found`, `not-reached`, `pending`) — the renderer looks it up in
+  `STATUS_GLYPH` and in the per-locale `ladderStatus` table, so it is
+  deliberately excluded from `SUBTREE_TRANSLATABLE.approvalLadder`; translating
+  it fails only the localized build, with "unknown status". `ladderRungs()`
+  fails the build on an unknown status, on a rung with neither `sources[]` nor
+  a `noDocument` note, and on a `not-found`/`not-reached` rung that does not
+  say what was searched. There is deliberately **no overall verdict badge**:
+  each rung speaks only for itself, and "no ruling found" (about our evidence),
+  "did not reach this step" (about the case) and "ruled against" stay three
+  different things.
 - **`lineage`** (alias `episcopalLineage`, the original fsspx key) — genealogy
   / lineage trees (`renderLineageSection`). One `trees[]` entry per branch;
   `separate: true` sets a branch apart visually for lines that must NOT be
