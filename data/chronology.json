@@ -14,6 +14,47 @@
       }
     ]
   },
+  "approvalLadder": {
+    "stages": [
+      {
+        "label": "Local inquiry at Lourdes",
+        "when": "February–July 1858",
+        "who": "The civil authorities of Lourdes, and the parish priest Dominique Peyramale",
+        "status": "inconclusive",
+        "outcome": "The examinations of Bernadette in 1858 were CIVIL acts, not canonical ones. Police commissioner Jacomet questioned her on 21 February 1858, and the grotto was later boarded up by order of the civil authorities. Peyramale, the parish priest and the nearest ecclesiastical authority, opened no canonical inquiry: he demanded that the Lady give her name and make the rose bush at the grotto bloom in winter, and by the Sanctuary's own account \"stuck to his position\" — the name was reported on 25 March, the rose bush \"did not bloom\". No ecclesiastical judgment of any kind was issued at this level; the case passed to the bishop, who constituted his commission of enquiry on 28 July 1858.",
+        "sources": [
+          "lourdes-apparitions",
+          "lourdes-recognition"
+        ]
+      },
+      {
+        "label": "The bishop of Tarbes",
+        "when": "Commission opened 28 July 1858 · decree of 18 January 1862",
+        "who": "Bertrand-Sévère Laurence, Bishop of Tarbes, and the commission of enquiry he constituted",
+        "status": "favourable",
+        "outcome": "The commission was charged \"to collect and to ascertain the facts which have happened or which could still occur in or around the grotto of Lourdes\" and worked for nearly four years. The decree of 18 January 1862 judged: \"We judge that the Immaculate Mary, Mother of God, really appeared to Bernadette Soubirous, on 11th February 1858 and the following days, eighteen times, in the grotto of Massabielle, near the city of Lourdes; that this apparition assumes all the characteristics of the truth, and that the faithful have reason to believe it beyond doubt.\" This diocesan act, and no other, is what the approval of Lourdes rests on.",
+        "sources": [
+          "lourdes-recognition"
+        ]
+      },
+      {
+        "label": "Rome",
+        "when": "1862 to the present",
+        "who": "The Holy See",
+        "status": "not-reached",
+        "outcome": "Rome has acted about Lourdes, but not on the authenticity of the apparitions. Leo XIII granted the proper Office and Mass of the feast \"In apparitione Beatae Mariae Virginis Immaculatae\" in 1892, and the liturgical memorial was inserted into the Roman calendar in 1907 — concessions of cult, which are not verdicts on a reported apparition. The Apostolic Penitentiary's decree of 21 November 2007 grants indulgences for the 150th anniversary and judges nothing. Bernadette's beatification (1925) and canonization (1933) judge her and not the grotto: the Sanctuary says she was canonized \"not for having been chosen for the Apparitions, but for the way in which she responded to that grace\". Pius XII's centenary encyclical of 1957 still credits the judgment to the diocese, describing her testimony as \"wisely put to the test by episcopal authority and approved as early as 1862\".",
+        "noDocument": "Searched for a Roman act judging the apparitions themselves; none was found. Searched: vatican.va, by domain-restricted search and through the Holy See's own document indices, which return for Lourdes the 1957 encyclical, the homilies and addresses of the papal visits, and the 2007 indulgence decree — none of them a judgment on the apparitions; and the Acta Apostolicae Sedis archive on vatican.va, whose series begins only in 1909, after both the 1862 decree and the 1907 calendar insertion, and whose located Lourdes material concerns Bernadette's cause rather than the grotto. No page-by-page sweep of every AAS volume was made, so this is an absence in the indices consulted, not a proof from the whole series. Devotional literature asserts a papal \"decree of approval\" by Pius IX, dated variously 1860 or 1 February 1876; it produces no document, and neither the Sanctuary's recognition page nor vatican.va records one. The status is \"did not reach\" rather than \"no record found\" because the two Holy See sources that do speak — the 1957 encyclical and the Vatican City State's own note on the feast — both present the bishop's 1862 decree as the recognition and point to no Roman one. Bishop Laurence did close his decree by submitting it upward — \"We humbly submit our judgment to the judgment of the Supreme Pontiff, who is charged with governing the universal Church\" — and no answering act has been located; should one be produced, this rung changes.",
+        "sources": [
+          "vatican-pelerinage-lourdes",
+          "vaticanstate-lourdes-feast",
+          "vatican-penitentiary-lourdes-2007",
+          "vatican-aas-archive",
+          "lourdes-recognition",
+          "lourdes-bernadette"
+        ]
+      }
+    ]
+  },
   "facts": [
     {
       "label": "What it is",
@@ -409,6 +450,38 @@
       "publisher": "Wikipedia",
       "publisherNote": "crowd-sourced encyclopedia — used only for uncontested biographical details (postulant's habit 29 July 1866; beatification 14 June 1925), flagged where it is the sole source",
       "type": "encyclopedia"
+    },
+    {
+      "id": "vatican-pelerinage-lourdes",
+      "title": "Le Pèlerinage de Lourdes — Encyclical of Pius XII (2 July 1957)",
+      "url": "https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_02071957_le-pelerinage-de-lourdes.html",
+      "publisher": "Holy See (vatican.va)",
+      "publisherNote": "Holy See — the centenary encyclical; it credits the approval to the diocese (\"wisely put to the test by episcopal authority and approved as early as 1862\") and describes the Roman acts as liturgical (Leo XIII's grant of the proper Office and Mass in 1892, extended to the universal Church shortly after)",
+      "type": "official"
+    },
+    {
+      "id": "vaticanstate-lourdes-feast",
+      "title": "11 February: Our Lady of Lourdes",
+      "url": "https://www.vaticanstate.va/en/state-and-government/general-informations/saint-of-the-day/1478-11-february-our-lady-of-lourdes.html",
+      "publisher": "Vatican City State",
+      "publisherNote": "official Vatican City State page — quotes the Bishop of Tarbes' judgment of 18 January 1862 as the recognition and dates the insertion of the liturgical memorial into the Roman calendar to 1907, naming no Roman act on authenticity",
+      "type": "official"
+    },
+    {
+      "id": "vatican-penitentiary-lourdes-2007",
+      "title": "Decree granting a Plenary Indulgence on the 150th Anniversary of the Apparition of the Blessed Virgin Mary at Lourdes (21 November 2007)",
+      "url": "https://www.vatican.va/roman_curia/tribunals/apost_penit/documents/rc_trib_appen_doc_20071121_decreto-lourdes_en.html",
+      "publisher": "Apostolic Penitentiary (vatican.va)",
+      "publisherNote": "Holy See — cited as the worked example of what Roman acts on Lourdes actually are: a grant of indulgences for the anniversary year, carrying no judgment on the apparitions",
+      "type": "official"
+    },
+    {
+      "id": "vatican-aas-archive",
+      "title": "Acta Apostolicae Sedis — archive of volumes",
+      "url": "https://www.vatican.va/archive/aas/index_sp.htm",
+      "publisher": "Holy See (vatican.va)",
+      "publisherNote": "official gazette of the Holy See — cited for what a search of it can and cannot establish: the series begins in 1909, after the 1862 diocesan decree and the 1907 calendar insertion, so the acts at issue here would fall in the earlier Acta Sanctae Sedis series",
+      "type": "index"
     }
   ]
 }
