@@ -104,12 +104,33 @@ to flatten:
 - **The 1854 dogma predates the 1858 phrase.** *Ineffabilis Deus* is dated
   precisely because the whole significance of the 25 March statement hangs on
   that four-year gap.
-- **Cult acts are not verdicts.** The crowning of the statue (1876) and the
-  memorial's entry into the Roman calendar (1907) are acts of *cult* — an
-  honour to an image, a devotion permitted then universalised. Both are now in
-  the chronology, both are worded as concessions, and a disambiguation item
-  says so. Neither may be read as Rome ruling on the apparitions: the ladder's
-  Rome rung is `not-reached` and nothing added here touches it.
+- **Cult acts are not verdicts — and Rome did a great many of them.** The
+  crowning of the statue (decree of 1 February 1876, crowning 3 July) and the
+  extension of the feast of 11 February to the **universal Church** in 1907 are
+  acts of *cult*: an honour to an image, a devotion permitted and then kept by
+  the whole Latin rite. Both are in the chronology, both are worded as
+  concessions, and a disambiguation item says so. The 1907 extension is the
+  furthest Rome has gone for any reported apparition in this family of
+  chronologies — further than the nine favours Pius IX granted La Salette in
+  1852 — and it is still not a ruling. Since 2026-08-06 the ladder makes both
+  halves visible: a `not-found` rung for the apparitions and a separate
+  `adjacent` rung listing what Rome actually did.
+- **The Rome rung is `not-found`, NOT `not-reached`, and the change was
+  deliberate.** It carried `not-reached` until 2026-08-06, which is a claim
+  about the case and was contradicted by the rung's own evidence: Bishop
+  Laurence closed the 1862 decree by submitting his judgment to the Supreme
+  Pontiff. The case demonstrably reached Rome; what has not been located is an
+  answering act. Do not move it back without a source saying the case was never
+  referred.
+- **"Pius IX's decree of approval of 1 February 1876" is the coronation
+  decree.** The devotional literature's most-repeated Roman act at Lourdes has
+  a real document behind it, described as something it is not. Keep the
+  identification: it is the cheapest way to stop the claim reappearing.
+- **The Sanctuary's own page on the popes claims no papal approval.** A page
+  written to celebrate papal favour, listing what every pope from Pius IX to
+  Benedict XVI granted, and it does not assert the one favour the devotional
+  literature asserts most often. That is the strongest completeness control on
+  the Rome zero and it is cited on the rung.
 - **The Sanctuary disagrees with itself, and that is kept.** Not only 70 vs 72
   cures: its two sites also date the Immaculate Conception basilica's
   consecration 1 July and 2 July 1876. Both recorded, neither preferred.
