@@ -5,7 +5,7 @@
     "description": "An open, source-referenced chronology of the apparitions reported by Bernadette Soubirous at the Massabielle grotto in Lourdes, France, in 1858: the 1854 dogma that preceded them, the civil closing of the grotto, the documented acts of the Catholic Church concerning them, the basilicas and pilgrimage institutions that grew around the site, Bernadette's later life at Nevers, and the recognition of reported cures — recorded as dated Church acts, never as cures this site asserts.",
     "language": "en",
     "siteUrl": "https://cronologia.github.io/lourdes/",
-    "lastUpdated": "2026-08-05",
+    "lastUpdated": "2026-08-06",
     "dataQualityNote": "Work-in-progress dataset compiled from public sources (see references). The apparitions are recorded as REPORTED events: the dataset states who reported what and when, and what the Church ruled and when, citing the ruling document — it does not assert the supernatural claim as fact. Reported miracles are handled the same way: a cure is a claim, and only two things attached to it are datable — that it was REPORTED, and any RECOGNITION ACT by which a bishop declared it miraculous. No entry here says a cure happened; the Medical Bureau (1883) and the International Medical Committee (1954) can find a cure unexplained but declare no miracle, counts are attributed to whoever publishes them (the Sanctuary says 72 as of 2025, while an older page of its own site still says 70, and both are kept), and recognized cures earn no rung on the approval ladder, which records judgments on the apparitions alone. The chronology also carries what came before 1858 and the institutional history after it — the basilicas, the pilgrimage bodies, Bernadette's years at Nevers. Contested claims are attributed to their authors; dates not yet verified against a primary source are flagged with a ? mark, and where sources disagree — including where the Sanctuary disagrees with itself — the disagreement is recorded rather than resolved. Corrections against primary sources are welcome.",
     "vizChips": [
       {
@@ -38,22 +38,40 @@
         ]
       },
       {
-        "label": "Rome",
+        "label": "Rome — the apparitions themselves",
         "when": "1862 to the present",
         "who": "The Holy See",
-        "status": "not-reached",
-        "outcome": "Rome has acted about Lourdes, but not on the authenticity of the apparitions. Leo XIII granted the proper Office and Mass of the feast \"In apparitione Beatae Mariae Virginis Immaculatae\" in 1892, and the liturgical memorial was inserted into the Roman calendar in 1907 — concessions of cult, which are not verdicts on a reported apparition. The Apostolic Penitentiary's decree of 21 November 2007 grants indulgences for the 150th anniversary and judges nothing. Bernadette's beatification (1925) and canonization (1933) judge her and not the grotto: the Sanctuary says she was canonized \"not for having been chosen for the Apparitions, but for the way in which she responded to that grace\". Pius XII's centenary encyclical of 1957 still credits the judgment to the diocese, describing her testimony as \"wisely put to the test by episcopal authority and approved as early as 1862\".",
-        "noDocument": "Searched for a Roman act judging the apparitions themselves; none was found. Searched: vatican.va, by domain-restricted search and through the Holy See's own document indices, which return for Lourdes the 1957 encyclical, the homilies and addresses of the papal visits, and the 2007 indulgence decree — none of them a judgment on the apparitions; and the Acta Apostolicae Sedis archive on vatican.va, whose series begins only in 1909, after both the 1862 decree and the 1907 calendar insertion, and whose located Lourdes material concerns Bernadette's cause rather than the grotto. No page-by-page sweep of every AAS volume was made, so this is an absence in the indices consulted, not a proof from the whole series. Devotional literature asserts a papal \"decree of approval\" by Pius IX, dated variously 1860 or 1 February 1876; it produces no document, and neither the Sanctuary's recognition page nor vatican.va records one. The status is \"did not reach\" rather than \"no record found\" because the two Holy See sources that do speak — the 1957 encyclical and the Vatican City State's own note on the feast — both present the bishop's 1862 decree as the recognition and point to no Roman one. Bishop Laurence did close his decree by submitting it upward — \"We humbly submit our judgment to the judgment of the Supreme Pontiff, who is charged with governing the universal Church\" — and no answering act has been located; should one be produced, this rung changes.",
+        "status": "not-found",
+        "outcome": "No Roman act judging the apparitions has been located. Rome acted about Lourdes repeatedly, and generously — the next rung is the list — but the acts located here are liturgical, indulgential, honorific, or about Bernadette. Bernadette's beatification (1925) and canonization (1933) judge her and not the grotto: the Sanctuary says she was canonized \"not for having been chosen for the Apparitions, but for the way in which she responded to that grace\". Pius XII's centenary encyclical of 1957 still credits the judgment to the diocese, describing her testimony as \"wisely put to the test by episcopal authority and approved as early as 1862\". Ninety-five years after the decree, in a document devoted to Lourdes, the pope names the bishop's act as the recognition and no Roman one.",
+        "noDocument": "Searched for a Roman act judging the apparitions themselves; none was found. Searched: vatican.va, by domain-restricted search and through the Holy See's own document indices, which return for Lourdes the 1957 encyclical, the homilies and addresses of the papal visits, and the 2007 indulgence decree — none of them a judgment on the apparitions; and the Acta Apostolicae Sedis archive on vatican.va, whose series begins only in 1909, after both the 1862 decree and the 1907 extension of the feast, and whose located Lourdes material concerns Bernadette's cause rather than the grotto. No page-by-page sweep of every AAS volume was made, so this is an absence in the indices consulted, not a proof from the whole series. Two further controls, both from sources that would have every reason to say otherwise. The Sanctuary's own page on the popes of Lourdes recounts what each pope granted — prayers, indulgences, a cause, an encyclical, four pilgrimages — and nowhere says a pope approved or recognised the apparitions. And the \"decree of approval by Pius IX of 1 February 1876\" that circulates in the devotional literature has a document behind it after all, but not that one: 1 February 1876 is the date of the decree of CANONICAL CORONATION of the image, executed at Lourdes on 3 July that year. The date is real and the description is not, which is how a coronation becomes an approval in retelling. The status is \"no record found\" and NOT \"the case did not reach this step\", and the change matters: Bishop Laurence closed his 1862 decree by submitting it upward — \"We humbly submit our judgment to the judgment of the Supreme Pontiff, who is charged with governing the universal Church\" — so the case demonstrably did reach Rome. What has not been located is an answering act. Should one be produced, this rung changes.",
         "sources": [
           "vatican-pelerinage-lourdes",
           "vaticanstate-lourdes-feast",
           "vatican-penitentiary-lourdes-2007",
           "vatican-aas-archive",
           "lourdes-recognition",
-          "lourdes-bernadette"
+          "lourdes-bernadette",
+          "lourdes-pilgrim-popes",
+          "lourdes-crowning-150"
+        ]
+      },
+      {
+        "label": "Rome — the cult, the calendar and the shrine (not the apparitions)",
+        "when": "1876 · 1890–1892 · 1907 · 1957 · 2007",
+        "who": "Pius IX, Leo XIII, Pius X, Pius XII, and the Apostolic Penitentiary",
+        "status": "adjacent",
+        "outcome": "Rome went further for Lourdes than for any other case in this family, and never once on the question. Pius IX decreed the canonical coronation of the image on 1 February 1876 and commissioned the crown itself from the Paris goldsmith Mellerio; the upper church was consecrated that July. Leo XIII approved prayers and indulgences attached to the shrine, and granted the feast of 11 February with a proper Office and Mass, \"In apparitione Beatae Mariae Virginis Immaculatae\", to the diocese of Tarbes around 1890–1892. Then in 1907 the feast was extended to the UNIVERSAL CHURCH — attributed to Pius X, and the heaviest Roman act in any of these chronologies: a liturgical commemoration of a reported apparition, kept by the whole Latin rite, every year. Pius XII devoted an encyclical to the shrine for the centenary (Le Pèlerinage de Lourdes, 2 July 1957), and the Apostolic Penitentiary granted indulgences for the 150th anniversary on 21 November 2007. Every one of these presupposes the devotion and none adjudicates the event. A feast in the universal calendar is the Church permitting and then universalising a cult; it is not a finding of fact, which is why the same 1957 encyclical that celebrates the shrine still points at the bishop of Tarbes for the recognition. The rung is marked as an act on a related matter for that reason — and a reader who thinks the 1907 extension must amount to approval should notice that the Sanctuary, which would say so if it could, does not.",
+        "sources": [
+          "vaticanstate-lourdes-feast",
+          "vatican-pelerinage-lourdes",
+          "vatican-penitentiary-lourdes-2007",
+          "lourdes-pilgrim-popes",
+          "lourdes-crowning-150",
+          "lourdes-3-basilicas"
         ]
       }
-    ]
+    ],
+    "note": "Lourdes is approved, and it is the bishop of Tarbes who approved it. The decree of 18 January 1862 judged that the Virgin \"really appeared to Bernadette Soubirous\" — the strongest wording any authority in this family of chronologies has used — and it is diocesan. Rome then did more for Lourdes than for any comparable case, up to putting the feast of 11 February in the calendar of the universal Church in 1907, without ever ruling on whether the apparitions happened. Both halves are true at once and the page keeps them apart: each rung records one authority, what it did, when, and in which document, and nothing here adds up to a verdict beyond the one the bishop gave."
   },
   "facts": [
     {
@@ -259,11 +277,12 @@
       "dateNote": "The Sanctuary's two websites give different days for the consecration: lourdes-france.org states 1 July 1876, while lourdes-france.com keeps 2 July as the basilica's dedication anniversary. Both are recorded; neither is preferred. The event is filed under 1 July.",
       "place": "Lourdes, France",
       "title": "Consecration of the Basilica of the Immaculate Conception; the statue crowned",
-      "text": "The upper church begun in 1866 above the crypt, blessed on 15 August 1871, is consecrated in July 1876. The statue of Our Lady of Lourdes — carved by Joseph-Hugues Fabisch and inaugurated at the grotto on 4 April 1864 — is crowned in the same year with a golden crown commissioned by Pius IX from the Paris goldsmith Mellerio. A crowning honours an image and confers nothing on the reported apparitions: the diocesan decree of 1862 remains the only act that judged them.",
+      "text": "The upper church begun in 1866 above the crypt, blessed on 15 August 1871, is consecrated in July 1876. The statue of Our Lady of Lourdes — carved by Joseph-Hugues Fabisch and inaugurated at the grotto on 4 April 1864 — is crowned with a golden crown commissioned by Pius IX from the Paris goldsmith Mellerio, under a decree of canonical coronation dated 1 February 1876; the crowning itself was performed at Lourdes on 3 July. That date is worth holding on to: the \"decree of approval of the apparitions by Pius IX, 1 February 1876\" repeated across the devotional literature is this decree, described as something it is not. A crowning honours an image and confers nothing on the reported apparitions: the diocesan decree of 1862 remains the only act that judged them.",
       "sources": [
         "lourdes-3-basilicas",
         "lourdes-rosary-dedication",
-        "lourdes-crowning-150"
+        "lourdes-crowning-150",
+        "lourdes-pilgrim-popes"
       ]
     },
     {
@@ -319,8 +338,8 @@
       "dateVerified": true,
       "dateNote": "The Vatican City State's page dates the insertion to 1907 and names neither a pope nor a day. Devotional sources attribute the extension to Pius X and some give a day; no Holy See document fixing one has been located, so only the year is recorded.",
       "place": "Rome",
-      "title": "The Lourdes memorial inserted into the Roman calendar — a liturgical concession",
-      "text": "The liturgical memorial of the apparitions is inserted into the Roman calendar in 1907, universalising the proper Office and Mass \"In apparitione Beatae Mariae Virginis Immaculatae\" that Leo XIII had granted in 1892. It is a concession of cult — the Church permitting a devotion and then extending it — and not a judgment that the apparitions occurred. The approval ladder treats it the same way: the Roman acts on Lourdes located here are liturgical or indulgential, and the only act that judged the apparitions is the bishop of Tarbes' decree of 1862, which Pius XII's 1957 encyclical still credits as the recognition.",
+      "title": "The feast of 11 February extended to the universal Church",
+      "text": "The liturgical memorial of the apparitions is extended in 1907 to the whole Latin Church, universalising the feast with its proper Office and Mass \"In apparitione Beatae Mariae Virginis Immaculatae\" that Leo XIII had granted to the diocese of Tarbes around 1890–1892. This is the furthest Rome has gone for any reported apparition in these chronologies: not an indulgence, not a crown, but a day the entire rite keeps. It is still a concession of cult — the Church permitting a devotion and then extending it — and not a judgment that the apparitions occurred, which is why the approval ladder files it as an act on a related matter and why Pius XII, writing on Lourdes half a century later, still credits the recognition to the bishop of Tarbes.",
       "sources": [
         "vaticanstate-lourdes-feast",
         "vatican-pelerinage-lourdes"
@@ -764,6 +783,14 @@
       "url": "https://en.lourdes-infotourisme.com/offers/la-crypte-lourdes-en-3152402/",
       "publisher": "Lourdes Tourist Office",
       "publisherNote": "the town's own tourist office — a CIVIL, municipal source rather than an ecclesiastical one, and one with an interest in promoting the site. Cited only for an uncontested building fact the Sanctuary's pages give without a year: the crypt was opened on 19 May 1866 and holds about 120 people",
+      "type": "official"
+    },
+    {
+      "id": "lourdes-pilgrim-popes",
+      "title": "The pilgrim popes of Lourdes",
+      "url": "https://www.lourdes-france.org/en/pilgrims-pope-of-lourdes/",
+      "publisher": "Sanctuaire Notre-Dame de Lourdes",
+      "publisherNote": "The shrine's own account of what each pope did for Lourdes — institutional and warmly sympathetic, which is what makes it useful here. It lists Leo XIII approving prayers and indulgences, Pius X opening Bernadette's cause, Pius XI beatifying and canonizing her, Pius XII's 1957 encyclical and the modern papal pilgrimages, and it nowhere says that a pope approved or recognised the apparitions. A page written to celebrate papal favour, not claiming the one favour the devotional literature most often asserts.",
       "type": "official"
     }
   ]
