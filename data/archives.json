@@ -1,0 +1,174 @@
+{
+  "generatedBy": "scripts/archive-refs.js",
+  "updatedAt": "2026-08-10",
+  "snapshots": {
+    "https://eglise.catholique.fr/actualites/452640-70e-miracle-de-lourdes-officiellement-reconnu-leveque-de-beauvais/": {
+      "refId": "eglise-catholique-moriau",
+      "archiveUrl": "https://web.archive.org/web/20260125114923/https://eglise.catholique.fr/actualites/452640-70e-miracle-de-lourdes-officiellement-reconnu-leveque-de-beauvais/",
+      "timestamp": "20260125114923",
+      "checkedAt": "2026-08-10"
+    },
+    "https://en.lourdes-infotourisme.com/offers/la-crypte-lourdes-en-3152402/": {
+      "refId": "lourdes-infotourisme-crypte",
+      "archiveUrl": "https://web.archive.org/web/20260608235037/https://en.lourdes-infotourisme.com/offers/la-crypte-lourdes-en-3152402/",
+      "timestamp": "20260608235037",
+      "checkedAt": "2026-08-10"
+    },
+    "https://en.wikipedia.org/wiki/Bernadette_Soubirous": {
+      "refId": "wikipedia-bernadette",
+      "archiveUrl": "https://web.archive.org/web/20260716050430/https://en.wikipedia.org/wiki/Bernadette_Soubirous",
+      "timestamp": "20260716050430",
+      "checkedAt": "2026-08-10"
+    },
+    "https://fr.wikipedia.org/wiki/Apparitions_mariales_de_Lourdes": {
+      "refId": "wikipedia-fr-apparitions-lourdes",
+      "archiveUrl": "https://web.archive.org/web/20260402140450/https://fr.wikipedia.org/wiki/Apparitions_mariales_de_Lourdes",
+      "timestamp": "20260402140450",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.britannica.com/biography/Saint-Bernadette-of-Lourdes": {
+      "refId": "britannica-bernadette",
+      "archiveUrl": "https://web.archive.org/web/20260218094244/https://www.britannica.com/biography/Saint-Bernadette-of-Lourdes",
+      "timestamp": "20260218094244",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.lourdes-france.com/en/6th-october-dedication-of-the-rosary-basilica/": {
+      "refId": "lourdes-rosary-dedication",
+      "archiveUrl": "https://web.archive.org/web/20260312102717/https://www.lourdes-france.com/en/6th-october-dedication-of-the-rosary-basilica/",
+      "timestamp": "20260312102717",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.lourdes-france.com/en/antonietta-raco-72nd-lourdes-miracle/": {
+      "refId": "lourdes-raco-72",
+      "archiveUrl": "https://web.archive.org/web/20260218022317/https://www.lourdes-france.com/en/antonietta-raco-72nd-lourdes-miracle/",
+      "timestamp": "20260218022317",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.lourdes-france.com/en/bernadette-soubirous/": {
+      "refId": "lourdes-bernadette",
+      "archiveUrl": "https://web.archive.org/web/20260312114138/https://www.lourdes-france.com/en/bernadette-soubirous/",
+      "timestamp": "20260312114138",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.lourdes-france.com/en/christian-hospitality-at-lourdes/": {
+      "refId": "lourdes-hospitality",
+      "archiveUrl": "https://web.archive.org/web/20260314203411/https://www.lourdes-france.com/en/christian-hospitality-at-lourdes/",
+      "timestamp": "20260314203411",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.lourdes-france.com/en/day-pilgrims/the-miracles/": {
+      "refId": "lourdes-miracles-com",
+      "archiveUrl": "https://web.archive.org/web/20260214161952/https://www.lourdes-france.com/en/day-pilgrims/the-miracles/",
+      "timestamp": "20260214161952",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.lourdes-france.com/en/john-traynor-71st-miracle-at-lourdes/": {
+      "refId": "lourdes-traynor",
+      "archiveUrl": "https://web.archive.org/web/20260314193307/https://www.lourdes-france.com/en/john-traynor-71st-miracle-at-lourdes/",
+      "timestamp": "20260314193307",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.lourdes-france.com/en/miraculous-healings/": {
+      "refId": "lourdes-miraculous-healings",
+      "archiveUrl": "https://web.archive.org/web/20260519223624/https://www.lourdes-france.com/en/miraculous-healings/",
+      "timestamp": "20260519223624",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.lourdes-france.com/en/recognition-of-a-miracle/": {
+      "refId": "lourdes-recognition-miracle",
+      "archiveUrl": "https://web.archive.org/web/20260305042330/https://www.lourdes-france.com/en/recognition-of-a-miracle/",
+      "timestamp": "20260305042330",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.lourdes-france.com/en/recognition-of-the-apparitions/": {
+      "refId": "lourdes-recognition",
+      "archiveUrl": "https://web.archive.org/web/20260218033057/https://www.lourdes-france.com/en/recognition-of-the-apparitions/",
+      "timestamp": "20260218033057",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.lourdes-france.com/en/the-apparitions/": {
+      "refId": "lourdes-apparitions",
+      "archiveUrl": "https://web.archive.org/web/20260519222921/https://www.lourdes-france.com/en/the-apparitions/",
+      "timestamp": "20260519222921",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.lourdes-france.com/en/the-medical-bureau-of-the-sanctuary/": {
+      "refId": "lourdes-medical-bureau",
+      "archiveUrl": "https://web.archive.org/web/20260312115105/https://www.lourdes-france.com/en/the-medical-bureau-of-the-sanctuary/",
+      "timestamp": "20260312115105",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.lourdes-france.org/en/150-ans-du-couronnement-de-la-vierge-marie-a-lourdes/": {
+      "refId": "lourdes-crowning-150",
+      "archiveUrl": "https://web.archive.org/web/20260607175746/https://www.lourdes-france.org/en/150-ans-du-couronnement-de-la-vierge-marie-a-lourdes/",
+      "timestamp": "20260607175746",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.lourdes-france.org/en/expliquez-moi-les-apparitions/": {
+      "refId": "lourdes-explain-apparitions",
+      "archiveUrl": "https://web.archive.org/web/20250124041155/https://www.lourdes-france.org/en/expliquez-moi-les-apparitions/",
+      "timestamp": "20250124041155",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.lourdes-france.org/en/medical-bureau-sanctuary/": {
+      "refId": "lourdes-medical-bureau-org",
+      "archiveUrl": "https://web.archive.org/web/20260314102359/https://www.lourdes-france.org/en/medical-bureau-sanctuary/",
+      "timestamp": "20260314102359",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.lourdes-france.org/en/pilgrims-pope-of-lourdes/": {
+      "refId": "lourdes-pilgrim-popes",
+      "archiveUrl": "https://web.archive.org/web/20260607162933/https://www.lourdes-france.org/en/pilgrims-pope-of-lourdes/",
+      "timestamp": "20260607162933",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.lourdes-france.org/en/the-3-basilicas-of-lourdes/": {
+      "refId": "lourdes-3-basilicas",
+      "archiveUrl": "https://web.archive.org/web/20260421170732/https://www.lourdes-france.org/en/the-3-basilicas-of-lourdes/",
+      "timestamp": "20260421170732",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.lourdes-france.org/en/the-miracles-of-lourdes/": {
+      "refId": "lourdes-miracles-org",
+      "archiveUrl": "https://web.archive.org/web/20260314101021/https://www.lourdes-france.org/en/the-miracles-of-lourdes/",
+      "timestamp": "20260314101021",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.vatican.va/archive/aas/index_sp.htm": {
+      "refId": "vatican-aas-archive",
+      "archiveUrl": "https://web.archive.org/web/20260725154604/https://www.vatican.va/archive/aas/index_sp.htm",
+      "timestamp": "20260725154604",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.vatican.va/content/pius-ix/en/documents/18541208-costituzione-apostolica-ineffabilis-deus.html": {
+      "refId": "vatican-ineffabilis",
+      "archiveUrl": "https://web.archive.org/web/20260719132954/https://www.vatican.va/content/pius-ix/en/documents/18541208-costituzione-apostolica-ineffabilis-deus.html",
+      "timestamp": "20260719132954",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_02071957_le-pelerinage-de-lourdes.html": {
+      "refId": "vatican-pelerinage-lourdes",
+      "archiveUrl": "https://web.archive.org/web/20260513131737/https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_02071957_le-pelerinage-de-lourdes.html",
+      "timestamp": "20260513131737",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240517_norme-fenomeni-soprannaturali_en.html": {
+      "refId": "ddf-norms-2024",
+      "archiveUrl": "https://web.archive.org/web/20260724130748/https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240517_norme-fenomeni-soprannaturali_en.html",
+      "timestamp": "20260724130748",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.vatican.va/roman_curia/tribunals/apost_penit/documents/rc_trib_appen_doc_20071121_decreto-lourdes_en.html": {
+      "refId": "vatican-penitentiary-lourdes-2007",
+      "archiveUrl": "https://web.archive.org/web/20251230141020/https://www.vatican.va/roman_curia/tribunals/apost_penit/documents/rc_trib_appen_doc_20071121_decreto-lourdes_en.html",
+      "timestamp": "20251230141020",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.vaticanstate.va/en/state-and-government/general-informations/saint-of-the-day/1478-11-february-our-lady-of-lourdes.html": {
+      "refId": "vaticanstate-lourdes-feast",
+      "archiveUrl": "https://web.archive.org/web/20260309093722/https://www.vaticanstate.va/en/state-and-government/general-informations/saint-of-the-day/1478-11-february-our-lady-of-lourdes.html",
+      "timestamp": "20260309093722",
+      "checkedAt": "2026-08-10"
+    }
+  }
+}
