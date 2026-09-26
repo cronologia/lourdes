@@ -1,12 +1,15 @@
 {
   "_meta": {
     "targetLang": "es",
-    "coverage": "150/150",
+    "coverage": "153/153",
     "generatedBy": "hand-authored by Claude (Anthropic) during the 2026-08-05 bootstrap; NOT produced by scripts/translate.js",
     "note": "Covers every translatable string in data/chronology.json, including references[].publisherNote (the project's own voice). The approval-ladder prose (labels, dates, who, outcomes, the Rome rung's noDocument note) is included: build.js routes it through SUBTREE_TRANSLATABLE.approvalLadder. Its `status` values are NOT here and must never be — they are a closed enum the renderer looks up, and translating one fails only the localized build with \"unknown status\". Coverage was computed with build.js's own walk (TRANSLATABLE_KEYS + SUBTREE_TRANSLATABLE), not with scripts/translate.js --stats: that script sees 71 strings where the real walk sees 91, because it skips references[] wholesale and does not know the approvalLadder allowlist — it would ask for translations of the status enum and miss every `when`, `who`, `outcome` and `noDocument`. Reported speech quoted in the dataset (e.g. the Gascon Occitan phrase) is left verbatim inside the translations.",
     "humanReviewed": false
   },
   "strings": {
+    "1883": "1883",
+    "1885": "1885",
+    "1954": "1954",
     "\"Que soy era Immaculada Concepciou\" (sixteenth reported apparition)": "«Que soy era Immaculada Concepciou» (decimosexta aparición relatada)",
     "\"The Immaculate Conception\" was defined as dogma by Pius IX in Ineffabilis Deus on 8 December 1854, four years before Bernadette reported the phrase at the grotto. The apparition did not create the doctrine; the reported statement's force in the 1858–1862 inquiry lay precisely in its echo of the recent definition.": "«La Inmaculada Concepción» fue definida como dogma por Pío IX en Ineffabilis Deus el 8 de diciembre de 1854, cuatro años antes de que Bernadette relatara la frase en la gruta. La aparición no creó la doctrina; la fuerza de la declaración relatada en la investigación de 1858–1862 residía precisamente en su eco de la definición reciente.",
     "'Unexplained cure' ≠ 'recognized miracle'": "«Curación inexplicada» ≠ «milagro reconocido»",
